@@ -34,7 +34,7 @@ Este repositorio contiene una API sencilla creada con el framework Flask en Pyth
 __Usando curl en la terminal:__
 
 ```sh
-curl http://127.0.0.1:5000/personas
+curl [http://127.0.0.1:5000/personas](http://127.0.0.1:5000/personas)
 
 ```
 
